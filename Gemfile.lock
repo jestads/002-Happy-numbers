@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rcov (0.9.10)
+    shoulda (2.11.3)
+    test-unit (2.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.0.0)
+  rcov
+  shoulda
+  test-unit (~> 2.3.0)
